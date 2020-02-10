@@ -8,7 +8,7 @@ This is my second assignment for the class 'Dynamic Web Development' at ITP, NUY
 <!-- It is good practice to add an about or summary -->
 ## Research & inspiration (aka Sketching, Wireframes, and Design specifications)
 
-First things first, this assignment intriduced me to the concept of the 'swiss poster formula':
+First things first, this assignment intriduced me to the 'swiss poster formula':
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/CzXXSnq/Screenshot-2020-02-07-at-20-09-36.png" alt="Screenshot-2020-02-07-at-20-09-36" border="0"></a>
 
