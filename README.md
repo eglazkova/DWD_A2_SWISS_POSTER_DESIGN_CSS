@@ -28,7 +28,7 @@ And two more — one doesn't deal with text that much but I love it anyway, and 
 
 There is also a website with <a href="https://swissincss.com/akari.html">animated swiss posters</a> and <a href="https://inspirationfeed.com/swiss-graphic-design/2/">the one with plenty of cool examples</a>. 
 
-I found the poster pattern that had more text than any of the examples, and looked really challenging for me as for CSS-beginner. The goal was to imitate the grid as accurate as I can, and adjust it my personal needs (say, create a personal page, or CV, or example of work, essay, etc).
+I found the poster pattern that had more text than any of the examples, and looked really challenging for me as for CSS-beginner. The goal was to imitate the grid as accurate as I can, and adjust it to my personal needs (say, create a personal page, or CV, or example of work, essay, etc).
 Below is the pattern itself and my process of deconstructing its structure to plan the html layout.
 
 <a href="https://ibb.co/jz51QtM"><img src="https://i.ibb.co/G9Jb8m2/90.jpg" alt="90" border="0"></a>
