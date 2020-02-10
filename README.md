@@ -12,7 +12,7 @@ First things first, this assignment intriduced me to the 'swiss poster formula':
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/CzXXSnq/Screenshot-2020-02-07-at-20-09-36.png" alt="Screenshot-2020-02-07-at-20-09-36" border="0"></a>
 
-There are a lot great examples over the Internet. However, I was interested in the posters that deal more with text than with visuals, since I am trying to take steps toward building MY portfolio or CV. This requirement narrowed my search a litte bit.
+There are a lot great examples over the Internet. However, I was interested in the posters that deal more with text than with visuals, since I am trying to take steps toward building my portfolio or CV (and I deal with text a lot). This requirement narrowed my search a litte bit.
 
 Below are some of my favourite examples.
 
