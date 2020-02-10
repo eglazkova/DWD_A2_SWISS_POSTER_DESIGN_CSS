@@ -38,7 +38,7 @@ Below is the pattern itself and my process of deconstructing its structure to pl
 <!-- It is essential to describe how to set up your project -->
 ## Development 
 Unfortunately, I was a little bit overwhelmed with understading CSS basics and nuances, getting to understand flexbox, etc, that I did the documentation in the most typical ITP style (process screenshots) but a very amateur developer style (not by adding and commiting gits). 
-I know it's really bad, however, I added earlier versions of my index.files into this repository (this time I would create new html's for a few times just to start from scratch), and the whole process of me trying to get where I wanted to land in a long series of screenshots (in chronological order):
+I know it's really bad. However, I added earlier versions of my index.files into this repository. This time I would create new html's for a few times just to start all from scratch. The whole process of me trying to get where I wanted to land is represented in a long series of screenshots (in chronological order) below:
 
 <a href="https://ibb.co/8NXszQ1"><img src="https://i.ibb.co/pbnwWkY/Screenshot-2020-02-08-at-01-33-24.png" alt="Screenshot-2020-02-08-at-01-33-24" border="0"></a>
 <a href="https://ibb.co/R0vFjBB"><img src="https://i.ibb.co/jM6NJWW/Screenshot-2020-02-08-at-01-35-01.png" alt="Screenshot-2020-02-08-at-01-35-01" border="0"></a>
